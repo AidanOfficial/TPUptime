@@ -1,0 +1,1 @@
+A simple FiveM server uptime script that pushes to the FiveM server list created by `aidanable`.
