@@ -1,5 +1,5 @@
 -- Resource Metadata
-fx_version 'gta5'
+fx_version 'cerulean'
 games { 'gta5' }
 
 author 'aidanable <aidan@nassau.group>'
